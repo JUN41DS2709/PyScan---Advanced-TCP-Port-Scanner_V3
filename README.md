@@ -64,9 +64,9 @@ python pyscan.py -s 20 -e 40000 -t 500 -V 192.168.1.2
 ## Screenshots
 
 ### Basic Usage
-
+![basic usage](images/basic.png)
 ### Advanced Usage
-
+![Advance Usage](images/advance.png)
 ## Disclaimer
 
 PyScan is intended for educational purposes and authorized security testing only. Do not scan systems without proper authorization.
